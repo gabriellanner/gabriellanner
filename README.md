@@ -1,4 +1,5 @@
 **Olá, sou Gabriel! 👋**
+
 Sou apaixonado por dados e pelo mercado financeiro, sempre em busca de transformar dados brutos em insights valiosos.
 
 Com uma formação inicial em Ciências Contábeis, após 4 anos de experiência na área,  decidi migrar para a Ciência da Computação pois me identifiquei melhor com a área.
