@@ -12,7 +12,7 @@ Meu foco é constantemente aprimorar minhas habilidades técnicas e aplicá-las 
 - 📊 **SQL** (Banco de Dados, Otimização de Queries)  
 - 📈 **Power BI** (Visualização de Dados e Dashboards)  
 - 🧠 **Modelagem Estatística** (Análise Descritiva, Regressão, Modelos Preditivos)  
-- 🔍 **Testes de Hipóteses** (p-valor, Testes Paramétricos e Não Paramétricos)  
+- 🔍 **Testes de Hipóteses** ( Testes Paramétricos e Não Paramétricos)  
 - 🎯 **Otimização de Modelos** (GridSearchCV, RandomizedSearch e outras técnicas)
 
 **Contato**
